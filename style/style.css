@@ -1,0 +1,101 @@
+html, body{
+  margin:0;
+  font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+  color: white;
+  background-color: white;
+}
+
+.container1{
+	background-image: linear-gradient(to right,orange,yellow);
+	height:140vh;
+	width: 100%;
+	border-radius: 15px;
+	padding: 20px;
+	margin:10px 10px;
+}
+
+.main-nav{
+	border-radius: 15px;	
+}
+
+.tagline{
+	padding-top: 50px;
+}
+
+.tagline h1{
+position: absolute;
+margin-left: 100px
+}
+
+.info{
+	margin-top: 153px;
+	margin-left: 100px;
+}
+
+.info p{
+  font-size: 20px;
+}
+
+.main{
+	margin-top: 15px;
+	width: 100%;
+}
+
+.cover-img{
+	margin-right:50px;
+}
+
+.cover{
+	width: 600px;
+	height: 350px;
+}
+
+.button{
+	margin-top: 25px;
+	margin-left: 100px;
+}
+
+.paw{
+	transform: rotate(30deg);
+	margin-left: 30px;
+	position: absolute;	
+	width: 60px;
+	height: 50px;
+}
+
+.services{
+	margin-top: 100px;
+}
+
+.services-info{
+	margin-top: 20px;
+}
+.icons{
+	margin-left: 210px;
+	width:40px;
+	height: 40px;
+}
+
+.services-info h4{
+	margin-left: 145px;
+	font-size: 25px;
+	font-weight: 500;
+}
+
+.services-info ul{
+	list-style: none;
+}
+
+.services-info li{
+	float: left;
+}
+
+.form a{
+	text-decoration: none;
+	color: white;
+}
+
+.footer{
+	margin-top: 100px;
+	position: absolute;
+}
